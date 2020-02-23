@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1579098483 source:c:\users\40757\desktop\proiect1\main.cpp
+	<iostream>
+	<fstream>
+	<winbgim.h>
+	<stdlib.h>
+	<graphics.h>
+	<cstring>
+	<time.h>
+	<mmsystem.h>
+
